@@ -96,6 +96,7 @@ A: PACKETMASTER</br>
 
 
 Q: Look at the expert info section. What is the number of warnings?</br>
+A: 1636 </br>
 
 ![thm-wireshark-18](https://github.com/user-attachments/assets/9105b9e7-b83d-43e5-8e5d-937256f6688d)
 
