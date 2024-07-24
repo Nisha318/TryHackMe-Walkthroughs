@@ -59,12 +59,7 @@ https://gtfobins.github.io/gtfobins/zip/#sudo
 
 
 
-
-
-
-
-
-
+![thm-tomghost-20](https://github.com/user-attachments/assets/a32fe8aa-6d62-4afb-b7ff-1a9a4198fedc)
 
 
 
