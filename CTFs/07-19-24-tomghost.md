@@ -1,13 +1,16 @@
 
-🚀 Excited to share my latest achievement on TryHackMe! 🎉
-I successfully compromised the Tomghost machine. Here’s a quick rundown of my process:
-	1. Scanned the server and discovered open ports.
-	2. Visited Apache Tomcat 9.0.30 and identified CVE-2020-1938 vulnerability.
-	3. Leveraged Metasploit to gain initial access.
-	4. Discovered a PGP file and key file, cracked the password to gain additional credentials.
-	5. The second user had sudo permissions for the zip binary.
-	6. Used GTFObins for privilege escalation with the zip binary to obtain root access.
+🚀 Excited to share my latest achievement on TryHackMe! 🎉</br>
+I successfully compromised the Tomghost machine. Here’s a quick rundown of my process:</br>
+   <ol> 
+	<li> Scanned the server and discovered open ports. </li>
+	<li> Visited Apache Tomcat 9.0.30 and identified CVE-2020-1938 vulnerability. </li>
+	<li> Leveraged Metasploit to gain initial access. </li>
+	<li> Discovered a PGP file and key file, cracked the password to gain additional credentials. </li>
+	<li> The second user had sudo permissions for the zip binary. </li>
+	<li> Used GTFObins for privilege escalation with the zip binary to obtain root access. </li>
 Proud to have conquered this challenge! 🏅💪
+
+</ol>
 
 #NotesByNisha #TryHackMe #CyberSecurity #ApacheTomcat #CVE20201938 #Metasploit #GTFObins #PrivilegeEscalation #PGP #RootAccess #CTF #EthicalHacking #Infosec #TechJourney 
 
