@@ -12,7 +12,7 @@ Proud to have conquered this challenge! 🏅💪
 #NotesByNisha #TryHackMe #CyberSecurity #ApacheTomcat #CVE20201938 #Metasploit #GTFObins #PrivilegeEscalation #PGP #RootAccess #CTF #EthicalHacking #Infosec #TechJourney 
 
 
-
+Room LinK: https://tryhackme.com/r/room/tomghost
 
 ![thm-tomghost-2](https://github.com/user-attachments/assets/c08e2da8-a56d-48f3-bcc7-f12b1116cfb8)
 
