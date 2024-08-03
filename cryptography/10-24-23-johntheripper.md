@@ -46,15 +46,32 @@ A: biscuit
 Q: What type of hash is hash2.txt?
 
 A: sha1
+
+![thm-john-6](https://github.com/user-attachments/assets/04de221c-b223-4606-9953-a4466efe7444)
+
+
+![thm-john-7](https://github.com/user-attachments/assets/6a38a615-bf4f-454b-9f19-373c995e8878)
+
  
 Q: What is the cracked value of hash2.txt
 
 A: kangeroo
+
+![thm-john-8](https://github.com/user-attachments/assets/a144b476-8028-47fe-8dc7-7e643bfed266)
+
  
 Q: What type of hash is hash3.txt?
 
 A: sha256
+
+![thm-john-9](https://github.com/user-attachments/assets/0ef03602-1f4e-4d99-84c4-84d8e352e93d)
+
+
+
+ ![thm-john-10](https://github.com/user-attachments/assets/1331127f-e815-4299-806e-5a54934b2754)
+
  
+
 Q: What is the cracked value of hash3.txt
 
 A: microphone
