@@ -47,11 +47,15 @@ Room Link: <a href="https://tryhackme.com/r/room/oscommandinjection">https://try
 
 **A: www-data**
 
+![thm-command-inject-2](https://github.com/user-attachments/assets/47dab3ad-2712-4692-9c6c-090c1d4d01e3)
 
 
 **Q: What are the contents of the flag located in /home/tryhackme/flag.txt?**
 
 **A: THM{COMMAND_INJECTION_COMPLETE}**
+
+![thm-command-inject-3](https://github.com/user-attachments/assets/91a0d42b-878f-4c77-89a5-fdcd5f21484a)
+
 
 ## Task 6 - Conclusion
 
