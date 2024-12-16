@@ -38,6 +38,6 @@ What is the flag discovered after navigating through the wishes?
 What is the flag seen on the possible proof of sabotage?
 - THM{m4y0r_m4lw4r3_b4ckd00rs}
 If you want to learn more about the XXE injection attack, check out the XXE room! 
-- No answer needed
+- No answer needed <br>
 Following McSkidy's advice, Software recently hardened the server. It used to have many unneeded open ports, but not anymore. Not that this matters in any way.
 - No answer needed
