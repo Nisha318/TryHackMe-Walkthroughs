@@ -69,19 +69,19 @@ http://10.10.240.185/mail/
 
 <img src="https://raw.githubusercontent.com/Nisha318/Nisha318.github.io/master/assets/images/thm/advent-of-cyber/2024/day10-8.png" alt="day10-8"><br>
 
-Attach the file:
+Attach the payload:
  Navigate to: root > .msf4 > local > msf.docm > open
 
  
 <img src="https://raw.githubusercontent.com/Nisha318/Nisha318.github.io/master/assets/images/thm/advent-of-cyber/2024/day10-9.png" alt="day10-9"><br>
 <img src="https://raw.githubusercontent.com/Nisha318/Nisha318.github.io/master/assets/images/thm/advent-of-cyber/2024/day10-10.png" alt="day10-10"><br>
 
-Address an email to the target user, marta@socmas.thm, convincing her to open the target.  The sender's email domain is a deliberate typo used to trick the receiver:
+Address an email to the target user, marta@socmas.thm, convincing her to open the malicious file attachment.  The sender's email domain is a deliberate typo used to trick the receiver:
 
 <img src="https://raw.githubusercontent.com/Nisha318/Nisha318.github.io/master/assets/images/thm/advent-of-cyber/2024/day10-11.png" alt="day10-11"><br>
 
 
-Marta responds to acknowledge the message and advised that she will check the document right away. 
+Marta responded by acknowledging the message and advised that she would check the document immediately. 
 
 <img src="https://raw.githubusercontent.com/Nisha318/Nisha318.github.io/master/assets/images/thm/advent-of-cyber/2024/day10-12.png" alt="day10-12"><br>
 
