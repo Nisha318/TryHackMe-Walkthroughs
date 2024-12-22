@@ -102,5 +102,5 @@ type flag.txt
 
 <img src="https://raw.githubusercontent.com/Nisha318/Nisha318.github.io/master/assets/images/thm/advent-of-cyber/2024/day10-14.png" alt="day10-14"><br>
 <img src="https://raw.githubusercontent.com/Nisha318/Nisha318.github.io/master/assets/images/thm/advent-of-cyber/2024/day10-15.png" alt="day10-15"><br>
-<img src="https://raw.githubusercontent.com/Nisha318/Nisha318.github.io/master/assets/images/thm/advent-of-cyber/2024/day10-16.png" alt="day10-16"><br>
+
 
